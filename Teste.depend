@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1459621448 source:f:\batalhateste\teste\main.cpp
+	<iostream>
+	<cstdlib>
+
+1460463499 source:c:\users\mariana\desktop\batalhateste\teste\main.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1460463499 c:\users\mariana\desktop\batalhateste\teste\cabeca.h
+
+1460464555 source:c:\users\mariana\desktop\batalhateste\teste\funcoes.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1463181994 source:e:\batalhateste\teste1\main.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1460463500 e:\batalhateste\teste1\cabeca.h
+
+1463181994 source:e:\batalhateste\teste1\funcoes.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1463183151 source:c:\users\user_le1_35\desktop\teste1\funcoes.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1463183568 c:\users\user_le1_35\desktop\teste1\cabeca.h
+
+1463183050 source:c:\users\user_le1_35\desktop\teste1\main.cpp
+	<iostream>
+	<cstdlib>
+	"cabeca.h"
+
+1466201187 source:c:\users\mariana\desktop\revisado\funcoes.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"cabeca.h"
+
+1464287944 c:\users\mariana\desktop\revisado\cabeca.h
+
+1464292491 source:c:\users\mariana\desktop\revisado\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"cabeca.h"
+
